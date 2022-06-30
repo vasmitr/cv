@@ -1,5 +1,8 @@
 # Yet another cv template adapted for PDF generation (but it's free 😁)
 
+## Check out the result or download my CV
+https://vasmitr.github.io/cv/
+
 ## Using
 
 - Fill html with your data
